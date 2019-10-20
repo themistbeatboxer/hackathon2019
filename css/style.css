@@ -4,6 +4,15 @@
   position: relative;
   left:30%;
 }
+#d
+{
+  position: relative;
+  left: 10%;
+  border-radius: 5px;
+  height: 120%;
+  width: 40%;
+  text-align: center;
+}
 body {
   line-height: 1.7;
   color: gray;
