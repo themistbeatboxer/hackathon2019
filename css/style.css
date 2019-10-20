@@ -1,9 +1,26 @@
 /* Base */
+#abt
+{
+  position: relative;
+  left:30%;
+}
+#d
+{
+  position: relative;
+  left: 10%;
+  border-radius: 5px;
+  height: 120%;
+  width: 40%;
+  text-align: center;
+}
 body {
   line-height: 1.7;
   color: gray;
   font-weight: 300;
-  font-size: 1.1rem; }
+  font-size: 1.1rem;
+  max-width: 100%;
+  overflow-x: hidden;
+   }
 
 ::-moz-selection {
   background: #000;
